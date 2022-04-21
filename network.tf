@@ -15,6 +15,4 @@ module "network" {
     Department = "devops"
     Billable = "false"
   }
-
-  ]
 }
